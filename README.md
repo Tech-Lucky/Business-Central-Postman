@@ -1,4 +1,4 @@
-# Business Central API_Tester
+# Business Central API Tester
 Business Central Extension to Test Rest API's Without Using Postman Application.
 Development is only done POST & GET method with Basic Authentication & Bearer Token,
 as this is a Open Source extension you guys can Contribute to this project and add the different methods and authorization types as well,
